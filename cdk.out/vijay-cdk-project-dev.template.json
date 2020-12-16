@@ -1,0 +1,12 @@
+{
+  "Resources": {
+    "myDevArtifactBucketID0BB33D65": {
+      "Type": "AWS::S3::Bucket",
+      "UpdateReplacePolicy": "Retain",
+      "DeletionPolicy": "Retain",
+      "Metadata": {
+        "aws:cdk:path": "vijay-cdk-project-dev/myDevArtifactBucketID/Resource"
+      }
+    }
+  }
+}
